@@ -1,0 +1,19 @@
+{% extends "public/templates/public_template.html" %}
+
+{% block title %}Upload{% endblock %}
+
+{% block main %}
+
+<div class="container">
+    {{image_list}}
+    <img src=" {{image_list}} " >
+
+</div>
+<script>
+
+  function filesize(elem){
+    document.cookie = `filesize=${elem.files[0].size}`
+  }
+
+</script>
+{% endblock %}
