@@ -12,4 +12,4 @@ The website ask you to allow localisation to link your image to you location. an
 database is a future when user can search for any image or location for the image.
 
 ## demo:
-![Image description](https://github.com/azizyano/SkyMap/blob/master/My%20Video%202.gif)
+![Image description](https://static.ezgif.com/images/document-save.png)
